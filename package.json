@@ -1,0 +1,22 @@
+{
+  "name": "interactive-multimedia-experience",
+  "version": "1.0.0",
+  "description": "A project for creating an interactive multimedia experience using D3.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "keywords": [],
+  "author": "Tanishka",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanishkad21/a4-tanishkadalavi"
+  }
+}
